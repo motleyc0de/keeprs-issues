@@ -23,7 +23,7 @@ Use this repo to:
 
 - **Website:** [keeprs.app](https://keeprs.app)
 - **Demo:** [demo.keeprs.app](https://demo.keeprs.app)
-- **Purchase:** [Polar.sh](https://polar.sh/motleycode/products/f8b4eb6a-7b9e-4487-a080-539af44e1b2b) — one-time, includes all future updates
+- **Purchase:** [Polar.sh](https://buy.polar.sh/polar_cl_eCgpyMC6HU2nbhxaideOZHI4dLSeqrdE7Z5Jr2CbWKY) — one-time, includes all future updates
 
 ## Reporting issues
 
